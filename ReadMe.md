@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Estudante de Análise e Desenvolvimento de Sistemas <br>👨‍💻 Design e Desenvolvimento Web  <br>💡 Criando Experiências Web Interativas <br>🚀 Em constante evolução
+💻 Estudante de Análise e Desenvolvimento de Sistemas <br>👨‍💻 Design e Desenvolvimento Web  <br> 🚀 Em constante evolução
 
 
 # 💻 Tech Stack:
